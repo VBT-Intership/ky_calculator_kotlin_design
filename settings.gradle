@@ -1,0 +1,2 @@
+rootProject.name='ky_calculator_kotlin_design'
+include ':app'

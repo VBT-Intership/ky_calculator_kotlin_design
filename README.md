@@ -1,4 +1,4 @@
 #### Calculator Design with Kotlin.
 
 
-[img](ss/ss-cal.png)
+![a](ss/ss-cal.png)
